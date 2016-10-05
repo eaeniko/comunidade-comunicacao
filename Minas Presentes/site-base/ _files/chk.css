@@ -1,0 +1,99 @@
+#heademail {
+	text-align: center;
+    font-size: 35px;
+}
+
+.fieldwrapper {
+	width: 400px;
+    margin: 0 auto;
+    position: relative;
+    top: 30px;
+}
+
+.fieldwrapper .field {
+	padding: 9px;
+    font-size: 15px;
+    width:282px;
+    border: 1px solid #ccc;
+}
+
+.fieldwrapper button {
+    padding: 11px 8px;
+    border: none;
+    position: relative;
+    left: -4px;
+    top: 0px;
+    height: 37px;
+    background-color: #000;
+    border: 1px solid #000;
+    color: #FFF;
+}
+
+.fieldwrapper .validation-advice {
+    width: 100%;
+    position: absolute;
+    top: 54px;
+    left: 0;
+    font-size: 15px;
+}
+
+
+.fieldwrapper span.error {
+    display:none !important;
+}
+
+.products-grid li {
+    position:relative;
+}
+
+.products-grid .actions {
+    position:absolute;
+    top: 80px;
+    left: 23px;
+}
+.products-grid .actions label {
+    font-size: 16px;
+}
+.products-grid .actions #qty {
+    padding: 4px;
+    font-size: 17px;
+}
+
+.col2-left-layout .products-grid li.item {
+    height: 335px !important;
+}
+
+.catalog-category-view .products-grid .actions {
+    left: 52px;
+}
+
+
+.btnlst {
+    background: url(../images/icocart.png) no-repeat 6px 0px;
+    text-indent: -9999px;
+    padding-left: 15px !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    width: 60px !important;
+    position: relative;
+    left: 13px;
+}
+
+.banner-halfs ul {
+    padding:0 !important;
+    list-style:none !important;
+}
+
+.banner-halfs + .banner-halfs {
+    float:right !important;
+}
+
+
+.sorter .categorias {
+    float: left;
+    margin-left: 40px;
+}
+
+.banner_checkout_mp {
+    width:100%;
+}

@@ -1,0 +1,99 @@
+.oitoo_cielo {
+    padding: 10px;
+}
+.oitoo_cielo .card-logo li {
+    width: 70px;
+    float: left;
+    height: 70px;
+}
+
+.oitoo_cielo .card-logo img {
+    max-width: 50px;
+    float: left;
+}
+
+.oitoo_cielo .card-logo li img {
+    width: 60px;
+}
+
+.oitoo_cielo #apelidocielo_expiracao_mes_cielo {
+    width:103px;
+}
+
+.oitoo_cielo #apelidocielo_expiracao_ano_cielo {
+    width:103px;
+}
+
+
+.oitoo_cielo li{
+    clear:both;
+}
+
+.oitoo_cielo li label {
+    min-width: 200px;
+    float: left;
+margin: 2px;
+}
+
+.oitoo_cielo .card-logo label {
+    min-width: 0 !important;
+}
+
+
+.apelidocielo-checkout-success .obrigado-sucesso {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #548C1C;
+}
+
+.apelidocielo-checkout-success .esquerda {
+    float: left;
+    width: 60%;
+    padding: 0px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.apelidocielo-checkout-success .titulo {
+    margin-top: 0px;
+}
+
+.apelidocielo-checkout-success .texto {
+    padding: 10px;
+    margin-left: 12px;
+    margin-right: 14px;
+    font-size: 12px;
+    padding-top: 9px;
+    padding-bottom: 28px;
+    width: 91%;
+    clear: both;
+}
+
+.apelidocielo-checkout-success .right-texto {
+    width: 48%;
+    float: right;
+    text-align: right;
+    font-size: 13px;
+    font-weight: bold;
+}
+.apelidocielo-checkout-success .left-texto {
+    width: 48%;
+    font-size: 14px;
+    float:left;
+}
+
+
+.apelidocielo-checkout-success  .direita {
+    padding: 0px;
+    float: right;
+    width: 29%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.apelidocielo-checkout-success .titulo {
+    width: 100%;
+    font-size: 21px;
+    color: rgb(66, 74, 84);
+    font-weight: bold;
+}

@@ -1,0 +1,45 @@
+/**
+ * IDEALIAGroup srl
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://www.idealiagroup.com/magento-ext-license.html
+ *
+ * @category   IG
+ * @package    IG_FloatingMenu
+ * @copyright  Copyright (c) 2011-2012 IDEALIAGroup srl (http://www.idealiagroup.com)
+ * @license    http://www.idealiagroup.com/magento-ext-license.html
+ */
+
+#ig-floatingmenu-container {
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: none;
+	-moz-box-shadow: 0px 2px 5px rgba(51, 51, 51, 0.43);
+	-webkit-box-shadow: 0px 2px 5px rgba(51, 51, 51, 0.43);
+	box-shadow: 0px 2px 5px rgba(51, 51, 51, 0.43);
+	opacity: .9;
+	background-color: #FF8C00;
+}
+
+#ig-floatingmenu-container {
+	width: 100%;
+	padding: 5px;
+}
+
+#ig-floatingmenu-container .ig-floatingmenu-wrapper {
+	width: 1000px;
+	margin: auto;
+}
+
+#ig-floatingmenu-container #ig-floatingmenu-search-fixed {
+	margin-left: 300px;
+}
+
+#ig-floatingmenu-container #ig-floatingmenu-cart-fixed {
+	margin-left: 700px;	
+}
